@@ -1,4 +1,4 @@
-<h1 align="center">hi there!👋</h1>
+<h1 align="center">Hi there!👋</h1>
 
 ###
 
@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left"><br><br><u></u>I'm David, also known as Obuobi Ayim David. Nice to meet you🫠.</u><br><br>Here's a snapshot of what I'm up to🎯:<br><br>- 	I create articles on topics that catch my interest, and you can find them on Notion.<br><br>- 	I've been a key contributor to a web-based school management application, especially designed for kids. Working with a team, I've been the driving force behind its development. Currently, we're focused on enhancing its features with the intention of launching soon. The application is accessible online😊.<br><br>-	 Talks about artificial intelligence, algorithms, backend architecture, and philosophy are all topics that I find interesting. It's like combining with Python or SQL.<br><br>- 	In my leisure time, I occasionally indulge in coding✨.<br>					<br>- 	 I enjoy tackling problems on platforms like Sololearn, Codewars, and Leetcode.<br><br>Feel free to drop me an email at ayimobuobi@gmail.com.</p><br>
+<p align="left"><br><br>Nice to meet you🫠! I'm David, also known as Obuobi Ayim David. Here's a snapshot of what I'm up to🎯:<br><br>- 	I create articles on topics that catch my interest, and you can find them on Notion.<br><br>- 	I've been a key contributor to a web-based school management application, especially designed for kids. Working with a team, I've been the driving force behind its development. Currently, we're focused on enhancing its features with the intention of launching soon. The application is accessible online😊.<br><br>-	 Talks about artificial intelligence, algorithms, backend architecture, and philosophy are all topics that I find interesting. It's like combining with Python or SQL.<br><br>- 	In my leisure time, I occasionally indulge in coding✨.<br>					<br>- 	 I enjoy tackling problems on platforms like Sololearn, Codewars, and Leetcode.<br><br>Feel free to drop me an email at ayimobuobi@gmail.com.</p><br>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
@@ -54,6 +54,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div> <br>
 
 ###
@@ -79,4 +89,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
-
