@@ -10,6 +10,9 @@
 
 ###
 
+<br />
+<img align="right" alt="GIF" src="https://github.com/Aristocratjnr/aristocratjnr/blob/main/aristo.gif"/>
+
 <h3 align="left">🛠 Language and Tools</h3>
 
 ###
