@@ -4,7 +4,7 @@
 
 <h3 align="left">👨🏽‍💻❤  About Me</h3>
 
-<marquee> Aristocrat David Junior </marquee>
+
 
 ###
 
