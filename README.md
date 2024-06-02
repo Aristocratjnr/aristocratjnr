@@ -1,10 +1,13 @@
 <h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
+![github-header-image](https://github.com/AWESOME04/AWESOME04/assets/102630199/a446339b-c8b5-4756-bbe4-ad39c50eae89)
+
+
 ###
 
 <h3 align="left">👨🏽‍💻❤  About Me</h3>
 
-![github-header-image](https://github.com/AWESOME04/AWESOME04/assets/102630199/a446339b-c8b5-4756-bbe4-ad39c50eae89)
+
 
 
 ###
