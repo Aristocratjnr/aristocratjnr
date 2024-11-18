@@ -78,7 +78,9 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<!-- Responsive GitHub Metrics -->
+<h2 align="center">📊 GitHub Performance Metrics</h2>
+
 
 ###
 
@@ -101,9 +103,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div><br/>
 <!-- Responsive Contact Section -->
 <h2 align="center">📞 Let's Connect!</h2>
