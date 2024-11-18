@@ -19,11 +19,11 @@
 
 ### 💡 Professional Snapshot
 
-- 🌐 Full-Stack Developer with a passion for innovative solutions
-- 🤖 AI & Machine Learning Enthusiast
+- 🌐 An Aspirant Full-Stack Developer with a passion for innovative solutions.
+- 🤖 AI & Machine Learning Enthusiast.
 - 🏆 Creator of [Trebuchet Academy](https://trebuchet-academy-uh1t.onrender.com/)
 - 📝 Technical Writer on [Notion](https://www.notion.so/Quick-Note-ee60a664aa4a4c40b58c8f0ad1d323d7?pvs=4)
-- 🧩 Problem Solver across multiple coding platforms
+- 🧩 Problem Solver across multiple coding platforms.
 
 ### 🔍 Current Focus
 - Enhancing web application architectures
