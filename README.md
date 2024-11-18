@@ -57,7 +57,8 @@
 <div align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="https://streak-stats.demolab.com?user=aristocratjnr&theme=radical&hide_border=true&border_radius=10&width=350" width="350">
-    <img src="https://streak-stats.demolab.com?user=aristocratjnr&theme=radical&hide_border=true&border_radius=10" height="200" alt="Contribution Streak">
+     <img src="https://streak-stats.demolab.com?user=aristocratjnr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
   </picture>
 </div>
 
