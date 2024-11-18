@@ -110,6 +110,11 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
+<!-- Responsive Visitor Counter -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=aristocratjnr&color=blueviolet" alt="Profile Views" style="max-width: 100%; height: auto;">
+</p><br/>
+
 <!-- Fun Quote -->
 <p align="center">
   <i>"Code is poetry in motion, and every algorithm tells a story."</i> 🖥️✨
