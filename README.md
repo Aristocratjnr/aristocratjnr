@@ -1,7 +1,7 @@
 <!-- Responsive Header -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="Wave"> 
-  <h1>Hey There! I'm Aristocrat jnr 👨🏽‍💻</h1>
+  <h1>Hey There!</h1>
 </div>
 
 <!-- Responsive Header Image -->
@@ -63,7 +63,7 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=aristocratjnr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&width=350" width="350">
+     <img src="https://streak-stats.demolab.com?user=aristocratjnr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
     <img src="https://github-readme-stats.vercel.app/api?username=aristocratjnr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats">
   </picture>
 </div>
