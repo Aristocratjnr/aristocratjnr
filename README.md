@@ -1,6 +1,6 @@
 <!-- Header with Dynamic Background -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey There! I'm Aristocrat jnr 👨🏽‍💻
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> hey!
 </h1>
 
 <!-- Dynamic Header Image with Subtle Animation -->
