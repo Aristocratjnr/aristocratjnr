@@ -68,6 +68,19 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
 </div><br/>
+
+<!-- Responsive Project Showcase -->
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Trebuchet Academy](https://trebuchet-academy-uh1t.onrender.com/) | Web-based school management system | Django, Python |
+| [Personal Portfolio](https://mynextjs-portfolio-nu.vercel.app/) | Professional showcase website | Next.js, React |
+
+</div>
+
 <!-- Responsive Contact Section -->
 <h2 align="center">📞 Let's Connect!</h2>
 
