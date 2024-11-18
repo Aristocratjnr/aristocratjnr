@@ -26,6 +26,19 @@
   </a>
 </p>
  <br/>
+  
+ <!-- Responsive Skills Breakdown -->
+<details>
+<summary><b>🔬 Detailed Skill Proficiency</b></summary>
+
+| Category | Skills |
+|----------|--------|
+| Languages | Python, JavaScript, TypeScript, Bash |
+| Frameworks | Django, React, Next.js, Node.js |
+| Cloud & DevOps | Azure, DigitalOcean, Docker |
+| Design & Tools | Figma, VSCode, Git, Canva |
+</details>
+
 
 ###
 
