@@ -17,11 +17,11 @@
       
 ### 💡 Professional Snapshot
 
-- 🌐 Full-Stack Developer with a passion for innovative solutions
-- 🤖 AI & Machine Learning Enthusiast
-- 🏆 Creator of [Trebuchet Academy](https://trebuchet-academy-uh1t.onrender.com/), a revolutionary school management platform
+- 🌐 An Aspirant Full-Stack Developer with a passion for innovative solutions.
+- 🤖 AI & Machine Learning and Internet Enthusiast.
+- 🏆 Creator of [Trebuchet Academy](https://trebuchet-academy-uh1t.onrender.com/), a revolutionary school management platform.
 - 📝 Technical Writer sharing insights on [Notion](https://www.notion.so/Quick-Note-ee60a664aa4a4c40b58c8f0ad1d323d7?pvs=4)
-- 🧩 Problem Solver across Sololearn, Codecademy, Codewars, and LeetCode
+- 🧩 Problem Solver across Sololearn, Codecademy, Codewars, and LeetCode.
 
 ### 🔍 Current Focus
 - Enhancing web application architectures
