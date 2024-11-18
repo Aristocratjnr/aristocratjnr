@@ -110,6 +110,15 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div><br/>
+<!-- Responsive Contact Section -->
+<h2 align="center">📞 Let's Connect!</h2>
+
+<p align="center">
+  <a href="mailto:ayimobuobi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%; height: auto;"></a>
+  <a href="https://t.me/aristocratjnr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="max-width: 100%; height: auto;"></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%; height: auto;"></a>
+</p><br/>
+
 <!-- Responsive Visitor Counter -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=aristocratjnr&color=blueviolet" alt="Profile Views" style="max-width: 100%; height: auto;">
