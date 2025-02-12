@@ -1,162 +1,196 @@
+
 <div align="center">
-  <!-- Animated Header with Custom Colors -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=Aristocrat%20jnr&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Coder&descSize=20&descAlignY=55&descColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi,%20I'm%20Aristocrat%20jnr&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Creative%20Coder&descAlignY=55&animation=twinkling" width="100%" alt="header"/>
 
-  <!-- Animated Text with Custom Colors -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Building+digital+experiences+%E2%9C%A8;Python+%7C+Django+%7C+React+Enthusiast+%F0%9F%8E%AF;Let's+create+something+amazing+%F0%9F%9A%80)](https://git.io/typing-svg)
+  <!-- Animated Text -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&random=false&width=435&lines=Building+digital+experiences+✨;Python+%7C+Django+%7C+React+Ninja+🥷;Let's+create+something+amazing+🚀)](https://git.io/typing-svg)
 
-  <!-- Animated Badges -->
-  <div>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/aristocratjnr?style=for-the-badge&logo=github&labelColor=FF6B6B&color=4ECDC4">
-    <img src="https://img.shields.io/badge/Based_in-Ghana-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=4ECDC4"/>
-    <img src="https://img.shields.io/badge/Experience-3+_Years-FF6B6B?style=for-the-badge&labelColor=4ECDC4"/>
-  </div>
+  <!-- Fun Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Lives_in-Ghana-blue?style=for-the-badge&logo=google-maps&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Experience-3+_Years-green?style=for-the-badge&logo=expertise&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Personality-INFJ_🎯-purple?style=for-the-badge&logo=myspace&logoColor=white"/>
+  </p>
 
-  <!-- Animated Developer Illustration -->
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120px"/>
+  <!-- Developer Illustration -->
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120px" alt="Developer Gif"/>
 </div>
 
 ## 👨‍💻 About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ```javascript
-// Hover over me! ⬇️
 const aristocrat = {
     pronouns: "He" | "Him",
-    code: ["Python 🐍", "JavaScript 💛", "TypeScript 💙"],
-    passions: ["Web Dev 🌐", "Tech 💻", "Photography 📸"],
+    code: ["Python", "JavaScript", "TypeScript"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         frontEnd: {
-            js: ["React ⚛️", "Next.js 🔲"],
-            css: ["Tailwind 🌊", "Bootstrap 🎨"]
+            js: ["React", "Next.js"],
+            css: ["bootstrap", "tailwind"]
         },
         backEnd: {
-            python: ["Django 🎯"],
-            js: ["Node 🟢", "Express 🚂"]
+            python: ["Django"],
+            js: ["Node", "Express"]
         },
-        devOps: ["AWS ☁️", "Docker 🐳", "Azure 📘"],
-        databases: ["MongoDB 🍃", "PostgreSQL 🐘"]
+        devOps: ["AWS", "Docker", "Azure"],
+        databases: ["mongo", "PostgreSQL"],
+        misc: ["Firebase", "Socket.IO"]
     },
-    currentFocus: "Building amazing web experiences! ✨"
+    currentFocus: "Building Trebuchet Academy",
+    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+## 🎯 Current Focus
+
+- 🔭 Working on [Trebuchet Academy](https://trebuchet-academy-uh1t.onrender.com/)
+- 🌱 Learning **AI/ML & Cloud Architecture**
+- 📝 Writing articles on [Notion](https://www.notion.so/Quick-Note-ee60a664aa4a4c40b58c8f0ad1d323d7)
+- 💬 Ask me about **React, Django, and System Design**
+
+## 🛠️ Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
 <div align="center">
-  <!-- Animated Tech Stack Icons with Hover Effect -->
-  <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,nodejs,typescript&perline=6&theme=dark" alt="Tech Stack"/>
   
-  <!-- Animated Progress Bars -->
-  <div>
-    <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-95%25-FF6B6B?style=for-the-badge&logo=python&logoColor=white&labelColor=4ECDC4"/>
-    <img alt="React" src="https://custom-icon-badges.demolab.com/badge/React-90%25-4ECDC4?style=for-the-badge&logo=react&logoColor=white&labelColor=FF6B6B"/>
-    <img alt="Django" src="https://custom-icon-badges.demolab.com/badge/Django-85%25-FF6B6B?style=for-the-badge&logo=django&logoColor=white&labelColor=4ECDC4"/>
-  </div>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Frontend Technologies" /><br/>
+  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgresql" alt="Backend Technologies" /><br/>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,figma" alt="Development Tools" />
+  
+  <!-- More Tools with Custom Style -->
+  <p>
+    <img src="https://img.shields.io/badge/VSCode-▮▮▮▮▯-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=23aa6f"/>
+    <img src="https://img.shields.io/badge/Python-▮▮▮▮▮-informational?style=for-the-badge&logo=python&logoColor=white&color=23aa6f"/>
+    <img src="https://img.shields.io/badge/React-▮▮▮▮▯-informational?style=for-the-badge&logo=react&logoColor=white&color=23aa6f"/>
+  </p>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=aristocratjnr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aristocratjnr&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aristocratjnr&custom_title=Aristocrat's%20Contribution%20Graph&bg_color=0D1117&color=6E5494&line=6E5494&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🎨 Featured Projects
 
 <div align="center">
-  <!-- Project Cards with Hover Animation -->
   <table>
     <tr>
       <td width="50%">
-        <div align="center" class="project-card">
+        <div align="center">
           <h3>🎓 Trebuchet Academy</h3>
-          <a href="https://trebuchet-academy-uh1t.onrender.com/">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=aristocratjnr&repo=trebuchet-academy&theme=react&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&hide_border=true&border_radius=10" alt="Trebuchet Academy"/>
-          </a>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aristocratjnr&repo=trebuchet-academy&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Trebuchet Academy"/>
           <br/>
           <div>
-            <img src="https://img.shields.io/badge/Django-FF6B6B?style=for-the-badge&logo=django&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Python-4ECDC4?style=for-the-badge&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
           </div>
           <br/>
-          <details>
-            <summary><b>Project Features</b></summary>
-            <br/>
-            <ul align="left">
-              <li>📊 Real-time Analytics Dashboard</li>
-              <li>💰 Automated Fee Management</li>
-              <li>📝 Smart Attendance System</li>
-              <li>📚 Interactive Course Platform</li>
-            </ul>
-          </details>
-          <div class="project-links">
-            <a href="https://trebuchet-academy-uh1t.onrender.com/">
-              <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/>
-            </a>
-            <a href="https://github.com/yourusername/trebuchet-academy">
-              <img src="https://img.shields.io/badge/View_Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </div>
+          <p>A comprehensive school management system with modern features:</p>
+          <ul align="left">
+            <li>📊 Student Performance Analytics</li>
+            <li>💰 Fee Management System</li>
+            <li>📝 Attendance Tracking</li>
+            <li>📚 Course Management</li>
+          </ul>
+          <br/>
+          <a href="https://trebuchet-academy-uh1t.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+          </a>
+          <a href="https://github.com/yourusername/trebuchet-academy" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
         </div>
       </td>
       <td width="50%">
-        <div align="center" class="project-card">
-          <h3>💼 Portfolio Website</h3>
-          <a href="https://mynextjs-portfolio-nu.vercel.app/">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=aristocratjnr&repo=portfolio&theme=react&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&hide_border=true&border_radius=10" alt="Portfolio"/>
-          </a>
+        <div align="center">
+          <h3>💼 Professional Portfolio</h3>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aristocratjnr&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio"/>
           <br/>
           <div>
-            <img src="https://img.shields.io/badge/Next.js-FF6B6B?style=for-the-badge&logo=next.js&logoColor=white"/>
-            <img src="https://img.shields.io/badge/React-4ECDC4?style=for-the-badge&logo=react&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
           </div>
           <br/>
-          <details>
-            <summary><b>Project Features</b></summary>
-            <br/>
-            <ul align="left">
-              <li>🎯 Dynamic UI Components</li>
-              <li>📱 Responsive Design System</li>
-              <li>⚡ Performance Optimized</li>
-              <li>🎨 Custom Animation Library</li>
-            </ul>
-          </details>
-          <div class="project-links">
-            <a href="https://mynextjs-portfolio-nu.vercel.app/">
-              <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/>
-            </a>
-            <a href="https://github.com/yourusername/portfolio">
-              <img src="https://img.shields.io/badge/View_Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </div>
+          <p>Modern portfolio website showcasing my work:</p>
+          <ul align="left">
+            <li>🎯 Interactive UI Components</li>
+            <li>📱 Responsive Design</li>
+            <li>⚡ Optimized Performance</li>
+            <li>🎨 Custom Animations</li>
+          </ul>
+          <br/>
+          <a href="https://mynextjs-portfolio-nu.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+          </a>
+          <a href="https://github.com/yourusername/portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-## 📊 GitHub Analytics
+## 📈 Contribution Overview
 
 <div align="center">
-  <!-- Animated Stats Cards -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aristocratjnr&show_icons=true&theme=react&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&hide_border=true&border_radius=10"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aristocratjnr&theme=react&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FF6B6B&hide_border=true&border_radius=10"/>
-
-  <!-- Animated Trophy Display -->
-  <img src="https://github-profile-trophy.vercel.app/?username=aristocratjnr&theme=darkhub&no-frame=true&row=1&column=6&margin-h=8&margin-w=8&title_color=FF6B6B&icon_color=4ECDC4" alt="profile trophies" />
-  
-  <!-- Dynamic Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aristocratjnr&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FF6B6B&area_color=4ECDC4&area=true&hide_border=true&radius=10"/>
+  <!-- Isometric Commit Calendar -->
+  <a href="https://github.com/aristocratjnr?tab=repositories">
+    <img src="https://github-profile-trophy.vercel.app/?username=aristocratjnr&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=8&margin-w=8" alt="profile trophies" />
+  </a>
+  <br/><br/>
+  <!-- Contribution Statistics -->
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aristocratjnr&theme=tokyonight" width="100%" alt="Profile Details"/>
+    <br/><br/>
+    <div style="display: flex; justify-content: space-between;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aristocratjnr&theme=tokyonight" alt="Top Languages by Repo"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aristocratjnr&theme=tokyonight" alt="Top Languages by Commit"/>
+    </div>
+  </div>
 </div>
-
-## 🤝 Let's Connect
+## 🤝 Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 <div align="center">
-  <!-- Animated Social Links -->
   <a href="mailto:ayimobuobi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://t.me/aristocratjnr">
-    <img src="https://img.shields.io/badge/Telegram-4ECDC4?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=aristocratjnr&style=for-the-badge&color=FF6B6B"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=aristocratjnr&label=Profile%20Views&color=6E5494&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=100&section=footer" width="100%"/>
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="footer"/>
+
+
