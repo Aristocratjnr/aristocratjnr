@@ -78,6 +78,7 @@ const aristocrat = {
       </td>
       <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=aristocratjnr&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=aristocratjnr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="221" alt="streak graph" />
       </td>
     </tr>
   </table>
@@ -138,7 +139,7 @@ const aristocrat = {
           <a href="https://mynextjs-portfolio-nu.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
           </a>
-          <a href="https://github.com/yourusername/portfolio" target="_blank">
+          <a href="https://github.com/Aristocratjnr/mynextjs-portfolio" target="_blank">
             <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </div>
