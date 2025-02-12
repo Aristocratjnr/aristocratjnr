@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi,%20I'm%20Aristocrat%20jnr&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Creative%20Coder&descAlignY=55&animation=twinkling" width="100%" alt="header"/>
 
@@ -22,17 +21,17 @@
 const aristocrat = {
     pronouns: "He" | "Him",
     code: ["Python 🐍", "JavaScript 💛", "TypeScript 💙"],
-    passions: ["Web Dev 🌐", "Tech 💻", "Photography 📸"],
+    passions: ["Web Dev 🌐", "Tech 💻"],
     technologies: {
         frontEnd: {
             js: ["React ⚛️", "Next.js 🔲"],
-            css: ["Tailwind 🌊", "Bootstrap 🎨"]
+            css: ["Tailwind CSS🌊", "Bootstrap 🎨"]
         },
         backEnd: {
             python: ["Django 🎯"],
             js: ["Node 🟢", "Express 🚂"]
         },
-        devOps: ["AWS ☁️", "Docker 🐳", "Azure 📘"],
+        devOps: ["AWS ☁️", "Azure 📘"],
         databases: ["MongoDB 🍃", "PostgreSQL 🐘"]
     },
     currentFocus: "Building amazing web experiences! ✨"
