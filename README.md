@@ -113,7 +113,7 @@ const aristocrat = {
           <a href="https://trebuchet-academy-uh1t.onrender.com/" target="_blank">
             <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
           </a>
-          <a href="https://github.com/yourusername/trebuchet-academy" target="_blank">
+          <a href="https://github.com/Aristocratjnr/Trebuchet-Academy" target="_blank">
             <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </div>
@@ -121,7 +121,7 @@ const aristocrat = {
       <td width="50%">
         <div align="center">
           <h3>💼 Professional Portfolio</h3>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aristocratjnr&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aristocratjnr&repo=mynextjs-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio"/>
           <br/>
           <div>
             <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
