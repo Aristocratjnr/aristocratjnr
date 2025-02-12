@@ -21,23 +21,21 @@
 ```javascript
 const aristocrat = {
     pronouns: "He" | "Him",
-    code: ["Python", "JavaScript", "TypeScript"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Python 🐍", "JavaScript 💛", "TypeScript 💙"],
+    passions: ["Web Dev 🌐", "Tech 💻", "Photography 📸"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["bootstrap", "tailwind"]
+            js: ["React ⚛️", "Next.js 🔲"],
+            css: ["Tailwind 🌊", "Bootstrap 🎨"]
         },
         backEnd: {
-            python: ["Django"],
-            js: ["Node", "Express"]
+            python: ["Django 🎯"],
+            js: ["Node 🟢", "Express 🚂"]
         },
-        devOps: ["AWS", "Docker", "Azure"],
-        databases: ["mongo", "PostgreSQL"],
-        misc: ["Firebase", "Socket.IO"]
+        devOps: ["AWS ☁️", "Docker 🐳", "Azure 📘"],
+        databases: ["MongoDB 🍃", "PostgreSQL 🐘"]
     },
-    currentFocus: "Building Trebuchet Academy",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Building amazing web experiences! ✨"
 };
 ```
 
