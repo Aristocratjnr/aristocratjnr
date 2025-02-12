@@ -78,7 +78,6 @@ const aristocrat = {
       </td>
       <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=aristocratjnr&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
-        <img src="https://streak-stats.demolab.com?user=aristocratjnr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="221" alt="streak graph" />
       </td>
     </tr>
   </table>
@@ -147,8 +146,6 @@ const aristocrat = {
     </tr>
   </table>
 </div>
-
-## 📈 Contribution Overview
 <!-- Contribution Statistics -->
 <div style="
   max-width: 950px; 
