@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi,%20I'm%20David%20Obuobi%20Ayim&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Creative%20Coder&descAlignY=55&animation=twinkling" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi,%20I'm%20David%20Obuobi%20Ayim&fontSize=40&fontAlignY=35&desc=Aspirant%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&animation=twinkling" width="100%" alt="header"/>
 
   <!-- Animated Text -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&random=false&width=435&lines=Building+digital+experiences+✨;Python+%7C+Django+%7C+React+Ninja+🥷;Let's+create+something+amazing+🚀)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&random=false&width=435&lines=Building+digital+experiences+✨;Python+%7C+Nextjs+%7C+React+Ninja+🥷;Let's+create+something+amazing+🚀)](https://git.io/typing-svg)
 
   <!-- Fun Badges -->
   <p>
@@ -42,10 +42,10 @@ const aristocrat = {
 
 ## 🎯 Current Focus
 
-- 🔭 Working on [Trebuchet Academy](https://trebuchet-academy-uh1t.onrender.com/)
-- 🌱 Learning **AI/ML & Cloud Architecture**
+- 🔭 Previously Working on [TuLauntry App](https://tulundry.onrender.com/)
+- 🌱 Learning **AI & Backend Architecture**
 - 📝 Writing articles on [Notion](https://www.notion.so/Quick-Note-ee60a664aa4a4c40b58c8f0ad1d323d7)
-- 💬 Ask me about **React, Django, and System Design**
+- 💬 Ask me about **React, Nextjs, and Tech Stuff**
 
 ## 🛠️ Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
@@ -148,23 +148,42 @@ const aristocrat = {
 </div>
 
 ## 📈 Contribution Overview
-
-<div align="center">
-  <!-- Isometric Commit Calendar -->
-  <a href="https://github.com/aristocratjnr?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=aristocratjnr&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=8&margin-w=8" alt="profile trophies" />
-  </a>
-  <br/><br/>
-  <!-- Contribution Statistics -->
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aristocratjnr&theme=tokyonight" width="100%" alt="Profile Details"/>
-    <br/><br/>
-    <div style="display: flex; justify-content: space-between;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aristocratjnr&theme=tokyonight" alt="Top Languages by Repo"/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aristocratjnr&theme=tokyonight" alt="Top Languages by Commit"/>
-    </div>
+<!-- Contribution Statistics -->
+<div style="
+  max-width: 950px; 
+  margin: auto; 
+  padding: 20px; 
+  background: #1a1b26; 
+  border-radius: 12px; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  color: white;
+">
+  <h2 style="color: #7aa2f7; font-size: 24px; margin-bottom: 15px;">🚀 GitHub Contribution Stats</h2>
+  
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aristocratjnr&theme=tokyonight" 
+    style="width: 100%; border-radius: 8px; margin-bottom: 15px;" 
+    alt="Profile Details"
+  />
+  
+  <div style="
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
+    gap: 15px; 
+    justify-content: center;
+  ">
+  </div>
+  <div style="margin-top: 15px;">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aristocratjnr&theme=tokyonight" 
+      style="width: 100%; max-width: 400px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);" 
+      alt="GitHub Stats"
+    />
   </div>
 </div>
+
+
 ## 🤝 Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 <div align="center">
