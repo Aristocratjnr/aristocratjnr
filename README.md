@@ -91,13 +91,83 @@ const aristocrat = {
 ## 🎨 Featured Projects
 
 <div align="center">
-  <a href="https://trebuchet-academy-uh1t.onrender.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aristocratjnr&repo=trebuchet-academy&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Trebuchet Academy" />
-  </a>
-  <a href="https://mynextjs-portfolio-nu.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aristocratjnr&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <h3>🎓 Trebuchet Academy</h3>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aristocratjnr&repo=trebuchet-academy&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Trebuchet Academy"/>
+          <br/>
+          <div>
+            <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+          </div>
+          <br/>
+          <p>A comprehensive school management system with modern features:</p>
+          <ul align="left">
+            <li>📊 Student Performance Analytics</li>
+            <li>💰 Fee Management System</li>
+            <li>📝 Attendance Tracking</li>
+            <li>📚 Course Management</li>
+          </ul>
+          <br/>
+          <a href="https://trebuchet-academy-uh1t.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+          </a>
+          <a href="https://github.com/yourusername/trebuchet-academy" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <h3>💼 Professional Portfolio</h3>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aristocratjnr&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio"/>
+          <br/>
+          <div>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+          </div>
+          <br/>
+          <p>Modern portfolio website showcasing my work:</p>
+          <ul align="left">
+            <li>🎯 Interactive UI Components</li>
+            <li>📱 Responsive Design</li>
+            <li>⚡ Optimized Performance</li>
+            <li>🎨 Custom Animations</li>
+          </ul>
+          <br/>
+          <a href="https://mynextjs-portfolio-nu.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+          </a>
+          <a href="https://github.com/yourusername/portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
+
+## 📈 Contribution Overview
+
+<div align="center">
+  <!-- Isometric Commit Calendar -->
+  <a href="https://github.com/aristocratjnr?tab=repositories">
+    <img src="https://github-profile-trophy.vercel.app/?username=aristocratjnr&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=8&margin-w=8" alt="profile trophies" />
+  </a>
+  <br/><br/>
+  <!-- Contribution Statistics -->
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aristocratjnr&theme=tokyonight" width="100%" alt="Profile Details"/>
+    <br/><br/>
+    <div style="display: flex; justify-content: space-between;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aristocratjnr&theme=tokyonight" alt="Top Languages by Repo"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aristocratjnr&theme=tokyonight" alt="Top Languages by Commit"/>
+    </div>
+  </div>
+</div>
+
 
 ## 🤝 Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
