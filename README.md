@@ -24,15 +24,15 @@ const aristocrat = {
     passions: ["Web Dev 🌐", "Tech 💻"],
     technologies: {
         frontEnd: {
-            js: ["React ⚛️", "Next.js 🔲"],
-            css: ["Tailwind CSS🌊", "Bootstrap 🎨"]
+            js: ["Next.js 🔲"],
+            css: ["Tailwind CSS🌊"]
         },
         backEnd: {
             python: ["Django 🎯"],
-            js: ["Node 🟢", "Express 🚂"]
+            js: ["Express 🚂"]
         },
-        devOps: ["AWS ☁️", "Azure 📘"],
-        databases: ["MongoDB 🍃", "PostgreSQL 🐘"]
+        devOps: ["Google Cloud☁️"],
+        databases: ["MongoDB 🍃"]
     },
     currentFocus: "Building amazing web experiences! ✨"
 };
