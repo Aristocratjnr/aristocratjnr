@@ -40,14 +40,14 @@ const aristocrat = {
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🎯 Current Focus
+##  Current Focus
 
-- 🔭 Previously Working on [TuLauntry App](https://tulundry.onrender.com/)
-- 🌱 Learning **AI & Backend Architecture**
-- 📝 Writing articles on [Notion](https://www.notion.so/Quick-Note-ee60a664aa4a4c40b58c8f0ad1d323d7)
-- 💬 Ask me about **React, Nextjs, and Tech Stuff**
+- Previously Working on [TuLauntry App](https://tulundry.onrender.com/)
+- Learning **AI & Backend Architecture**
+- Writing articles on [Notion](https://www.notion.so/Quick-Note-ee60a664aa4a4c40b58c8f0ad1d323d7)
+- Ask me about **React, Nextjs, and Tech Stuff**
 
-## 🛠️ Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+##  Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 <div align="center">
   
@@ -68,7 +68,7 @@ const aristocrat = {
   </p>
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <table>
@@ -86,7 +86,7 @@ const aristocrat = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aristocratjnr&custom_title=Aristocrat's%20Contribution%20Graph&bg_color=0D1117&color=6E5494&line=6E5494&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🎨 Featured Projects
+## Featured Projects
 
 <div align="center">
   <table>
@@ -103,10 +103,10 @@ const aristocrat = {
           <br/>
           <p>A comprehensive school management system with modern features:</p>
           <ul align="left">
-            <li>📊 Student Performance Analytics</li>
-            <li>💰 Fee Management System</li>
-            <li>📝 Attendance Tracking</li>
-            <li>📚 Course Management</li>
+            <li>Student Performance Analytics</li>
+            <li>Fee Management System</li>
+            <li>Attendance Tracking</li>
+            <li>Course Management</li>
           </ul>
           <br/>
           <a href="https://trebuchet-academy-uh1t.onrender.com/" target="_blank">
@@ -119,7 +119,7 @@ const aristocrat = {
       </td>
       <td width="50%">
         <div align="center">
-          <h3>💼 Professional Portfolio</h3>
+          <h3>Professional Portfolio</h3>
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=aristocratjnr&repo=mynextjs-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio"/>
           <br/>
           <div>
@@ -129,10 +129,10 @@ const aristocrat = {
           <br/>
           <p>Modern portfolio website showcasing my work:</p>
           <ul align="left">
-            <li>🎯 Interactive UI Components</li>
-            <li>📱 Responsive Design</li>
-            <li>⚡ Optimized Performance</li>
-            <li>🎨 Custom Animations</li>
+            <li>Interactive UI Components</li>
+            <li>Responsive Design</li>
+            <li>Optimized Performance</li>
+            <li>Custom Animations</li>
           </ul>
           <br/>
           <a href="https://mynextjs-portfolio-nu.vercel.app/" target="_blank">
