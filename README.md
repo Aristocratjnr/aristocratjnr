@@ -15,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120px" alt="Developer Gif"/>
 </div>
 
-## 👨‍💻 About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ```javascript
 const aristocrat = {
@@ -31,7 +31,7 @@ const aristocrat = {
             python: ["Django"],
             js: ["Express"]
         },
-        devOps: ["Google Cloud☁"],
+        devOps: ["Google Cloud"],
         databases: ["MongoDB "]
     },
     currentFocus: "Building amazing web experiences"
