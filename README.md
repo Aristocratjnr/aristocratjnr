@@ -157,9 +157,6 @@ const aristocrat = {
   text-align: center;
   color: white;
 ">
-  <h2 style="color: #7aa2f7; font-size: 24px; margin-bottom: 15px;">🚀 GitHub Contribution Stats</h2>
-  
- 
   
   <div style="
     display: grid; 
@@ -168,13 +165,7 @@ const aristocrat = {
     justify-content: center;
   ">
   </div>
-  <div style="margin-top: 15px;">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aristocratjnr&theme=tokyonight" 
-      style="width: 100%; max-width: 400px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);" 
-      alt="GitHub Stats"
-    />
-  </div>
+
 </div>
 
 
