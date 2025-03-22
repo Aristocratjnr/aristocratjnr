@@ -31,10 +31,10 @@ const aristocrat = {
             python: ["Django"],
             js: ["Express"]
         },
-        devOps: ["Google Cloud☁️"],
-        databases: ["MongoDB 🍃"]
+        devOps: ["Google Cloud☁"],
+        databases: ["MongoDB "]
     },
-    currentFocus: "Building amazing web experiences! ✨"
+    currentFocus: "Building amazing web experiences"
 };
 ```
 
