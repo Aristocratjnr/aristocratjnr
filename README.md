@@ -20,16 +20,16 @@
 ```javascript
 const aristocrat = {
     pronouns: "He" | "Him",
-    code: ["Python 🐍", "JavaScript 💛", "TypeScript 💙"],
-    passions: ["Web Dev 🌐", "Tech 💻"],
+    code: ["JavaScript ", "TypeScript"],
+    passions: ["Web Dev", "Tech"],
     technologies: {
         frontEnd: {
-            js: ["Next.js 🔲"],
-            css: ["Tailwind CSS🌊"]
+            js: ["Next.js"],
+            css: ["Tailwind CSS"]
         },
         backEnd: {
-            python: ["Django 🎯"],
-            js: ["Express 🚂"]
+            python: ["Django"],
+            js: ["Express"]
         },
         devOps: ["Google Cloud☁️"],
         databases: ["MongoDB 🍃"]
