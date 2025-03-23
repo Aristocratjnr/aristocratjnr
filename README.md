@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi,%20I'm%20David%20Obuobi%20Ayim&fontSize=40&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&animation=twinkling" width="100%" alt="header"/>
 
   <!-- Animated Text -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&random=false&width=435&lines=Building+digital+experiences+✨;Reactjs+%7C+Nextjs+%7C+React+Ninja+🥷;Let's+create+something+amazing+🚀)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&random=false&width=435&lines=Building+digital+experiences+✨;Reactjs+%7C+Nextjs+%7C;Let's+create+something+amazing+🚀)](https://git.io/typing-svg)
 
   <!-- Fun Badges -->
   <p>
