@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="https://komarev.com/ghpvc/?username=aristocratjnr">
+  <img align="right" src="https://komarev.com/ghpvc/?username=aristocratjnr&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi,%20I'm%20David%20Ayim%20Obuobi&fontSize=40&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20||%20Problem%20Solver&descAlignY=55&animation=twinkling" width="100%" alt="header"/>
 
   <!-- Animated Text -->
@@ -39,6 +42,12 @@ const aristocrat = {
 ```
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="center">
+  <a href="https://kelvinagyareyeboah.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio">
+  </a>
+</p>
 
 ##  Current Focus
 
