@@ -211,11 +211,6 @@ const aristocrat = {
   <img src="https://komarev.com/ghpvc/?username=aristocratjnr&label=Profile%20Views&color=6E5494&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="footer"/>
 
