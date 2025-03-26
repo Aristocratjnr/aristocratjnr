@@ -16,9 +16,14 @@
 
   <!-- Developer Illustration -->
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120px" alt="Developer Gif"/>
-</div>
+</div><br>
+ <p align="center">
+  <a href="https://mynextjs-portfolio-nu.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio">
+  </a>
+</p>
 
-## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+##   About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ```javascript
 const aristocrat = {
@@ -43,11 +48,7 @@ const aristocrat = {
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="center">
-  <a href="https://kelvinagyareyeboah.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio">
-  </a>
-</p>
+
 
 ##  Current Focus
 
@@ -67,14 +68,29 @@ const aristocrat = {
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgresql" alt="Backend Technologies" /><br/>
   
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,figma" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,figma" alt="Development Tools" /><br>
   
-  <!-- More Tools with Custom Style -->
-  <p>
-    <img src="https://img.shields.io/badge/VSCode-▮▮▮▮▯-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=23aa6f"/>
-    <img src="https://img.shields.io/badge/Python-▮▮▮▮▮-informational?style=for-the-badge&logo=python&logoColor=white&color=23aa6f"/>
-    <img src="https://img.shields.io/badge/React-▮▮▮▮▯-informational?style=for-the-badge&logo=react&logoColor=white&color=23aa6f"/>
-  </p>
+ <p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+</p>
+
 </div>
 
 ## GitHub Stats
