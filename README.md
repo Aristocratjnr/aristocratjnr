@@ -132,7 +132,7 @@ const aristocrat = {
 </div>
 
 
-## 🤝 Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+## Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 <div align="center">
   <a href="mailto:ayimobuobi@gmail.com">
