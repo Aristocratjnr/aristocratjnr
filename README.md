@@ -111,66 +111,7 @@ const aristocrat = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aristocratjnr&custom_title=Aristocrat's%20Contribution%20Graph&bg_color=0D1117&color=6E5494&line=6E5494&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
-## Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <h3>🎓 Trebuchet Academy</h3>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aristocratjnr&repo=trebuchet-academy&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Trebuchet Academy"/>
-          <br/>
-          <div>
-            <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-          </div>
-          <br/>
-          <p>A comprehensive school management system with modern features:</p>
-          <ul align="left">
-            <li>Student Performance Analytics</li>
-            <li>Fee Management System</li>
-            <li>Attendance Tracking</li>
-            <li>Course Management</li>
-          </ul>
-          <br/>
-          <a href="https://trebuchet-academy-uh1t.onrender.com/" target="_blank">
-            <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-          </a>
-          <a href="https://github.com/Aristocratjnr/Trebuchet-Academy" target="_blank">
-            <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <h3>Professional Portfolio</h3>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aristocratjnr&repo=mynextjs-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio"/>
-          <br/>
-          <div>
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-          </div>
-          <br/>
-          <p>Modern portfolio website showcasing my work:</p>
-          <ul align="left">
-            <li>Interactive UI Components</li>
-            <li>Responsive Design</li>
-            <li>Optimized Performance</li>
-            <li>Custom Animations</li>
-          </ul>
-          <br/>
-          <a href="https://mynextjs-portfolio-nu.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-          </a>
-          <a href="https://github.com/Aristocratjnr/mynextjs-portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 <!-- Contribution Statistics -->
 <div style="
   max-width: 950px; 
