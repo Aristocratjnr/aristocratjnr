@@ -36,11 +36,10 @@ const aristocrat = {
             css: ["Tailwind CSS"]
         },
         backEnd: {
-            python: ["Django"],
             js: ["Express"]
         },
         devOps: ["Google Cloud"],
-        databases: ["MongoDB "]
+        databases: ["MongoDB"]
     },
     currentFocus: "Building amazing web experiences"
 };
